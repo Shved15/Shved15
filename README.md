@@ -51,6 +51,8 @@ My name is Maxim, a knowledge-thirsty self-taught web developer from RussiaðŸ‡·ð
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shved15&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+[![CodeWars](https://www.codewars.com/users/Shved_15/badges/large)](https://www.codewars.com/users/Shved_15)
 
 ---
 
