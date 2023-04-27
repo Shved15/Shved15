@@ -5,17 +5,21 @@
 
 ## 🚀 Hola, world!
 My name is Maxim, a knowledge-thirsty self-taught web developer from Russia🇷🇺. Currently, I reside in sunny Spain🇪🇸. My passion for software development stems from scientific and science-fiction books and the idea of a highly advanced future.<br>At the moment, I am developing on Python+Django, but I plan to learn Go and neural network development.<br>I am actively looking for work, so if anyone is looking for an enthusiastic colleague who strives to become a professional in their field, please contact me!<br><br>
-🌊 Exploring Technical Content Writing.<br><br>
-🕓 In my free time, I do sports🏃‍♂️, read tech articles📄 and interesting books📚.<br>
-  (but how does a programmer get free time?)<br>
-<br>
+- 🌊 Exploring Technical Content Writing.<br><br>
+- 🕓 In my free time, I do sports🏃‍♂️, read tech articles📄 and interesting books📚.<br>
+  (but how does a programmer get free time?)<br><br>
+- 📬 Contact me: <a href="mailto:freudjungplaton@gmail.com"><img align="center" src="https://camo.githubusercontent.com/a8c761056c822bf3e282450650e6c75bec1fb22acff08241e477faf8572b4b7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail logo" width="60" height="30"></a>
+<br><br>
+
+
 ### Fan facts:
 - In the past, I was a criminal and bankruptcy lawyer, as well as an active sales manager.
 
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maxim-shikhovtsov-b44b22271/) 
+<div>
+<a href="https://www.linkedin.com/in/maxim-shikhovtsov-b44b22271/"><img src="https://camo.githubusercontent.com/9e16a27e6c95dcb2897cf08caca111e0f4e8a8eb456832dde0d5061dbe45add6/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343739392e706e67" alt="alt text" width="50" height="50"/></a>
+</div><br><br>
 
 
 
