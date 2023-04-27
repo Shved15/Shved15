@@ -19,7 +19,9 @@ My name is Maxim, a knowledge-thirsty self-taught web developer from Russia🇷�
 ## 🌐 Socials:
 <div>
 <a href="https://www.linkedin.com/in/maxim-shikhovtsov-b44b22271/"><img src="https://camo.githubusercontent.com/9e16a27e6c95dcb2897cf08caca111e0f4e8a8eb456832dde0d5061dbe45add6/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343739392e706e67" alt="alt text" width="50" height="50"/></a>
-</div><br><br>
+<a href="https://t.me/Faust_15"><img src="https://camo.githubusercontent.com/23769702d6ec4634238509960554e0b7f2dc347614e708cbd68b0715fb75affb/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" alt="alt text" width="50" height="50"/></a>
+</div>
+<br><br>
 
 
 
