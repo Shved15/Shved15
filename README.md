@@ -1,6 +1,6 @@
 <div align="center">
 
-![alt text](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47bnp8rdm6b06ueuzjvl5oy3vmij1r2ydd97xizibs&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![alt text](https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif)
 </div>
 
 ## 🚀 Hola, world!
