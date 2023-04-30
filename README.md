@@ -31,7 +31,7 @@ My name is Maxim, a knowledge-thirsty self-taught web developer from Russia🇷�
 
 <table><tr><td valign="top" width="33%">
 
-# ✔️ Languages:
+## 🛠 Languages:
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -39,7 +39,7 @@ My name is Maxim, a knowledge-thirsty self-taught web developer from Russia🇷�
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -61,20 +61,29 @@ My name is Maxim, a knowledge-thirsty self-taught web developer from Russia🇷�
 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<br><br>
 </div>
-  
-### ♨️ CodeWars Stats:
-<div align="center">
-  
-[![CodeWars](https://www.codewars.com/users/Shved_15/badges/large)](https://www.codewars.com/users/Shved_15)
 
-<br><br>
-</div>
-  
 ### 📊 GitHub Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shved15&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+  
+### ♨️ CodeWars Stats:
+<div align="center">
+  
+[![CodeWars](https://www.codewars.com/users/Shved_15/badges/large)](https://www.codewars.com/users/Shved_15)
+<br><br>
+</div>
+
+### <a href="https://www.leetcode.com/shved_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shved_15" height="30" width="40" /></a> LeetCode Stats:
+
+<div align="center">
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=shved_15&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+</div>
+
+  
+
 
 
 
