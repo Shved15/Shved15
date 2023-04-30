@@ -1,6 +1,6 @@
 <div align="center">
 
-![alt text](https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif)<br>
+![alt text](https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif)<br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+backend+developer)](https://git.io/typing-svg)
 </div>
 
