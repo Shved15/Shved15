@@ -63,10 +63,8 @@ My name is Maxim, a knowledge-thirsty self-taught web developer from Russia🇷�
 </div>
 
 ### 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shved15&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shved15&theme=yeblu&hide_border=true&layout=compact" align="center" /></div> 
   
 ### ♨️ CodeWars Stats:
 <div align="center">
