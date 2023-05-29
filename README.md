@@ -11,7 +11,7 @@ My name is Maxim, a knowledge-thirsty self-taught web developer from Russia🇷�
 - 🌊 Exploring Technical Content Writing.<br><br>
 - 🕓 In my free time, I do sports🏃‍♂️, read tech articles📄 and interesting books📚.<br>
   (but how does a programmer get free time?)<br><br>
-- 📬 Contact me: <a href="mailto:freudjungplaton@gmail.com"><img align="center" src="https://camo.githubusercontent.com/a8c761056c822bf3e282450650e6c75bec1fb22acff08241e477faf8572b4b7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail logo" width="60" height="30"></a>
+- 📬 Contact me: <a href="mailto:shved.dev15@gmail.com"><img align="center" src="https://camo.githubusercontent.com/a8c761056c822bf3e282450650e6c75bec1fb22acff08241e477faf8572b4b7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail logo" width="60" height="30"></a>
 <br><br>
 
 
