@@ -7,7 +7,7 @@
 
 
 ## 🚀 Hola, world!
-My name is Maxim, a knowledge-thirsty self-taught web developer from Russia🇷🇺. Currently, I reside in sunny Spain🇪🇸. My passion for software development stems from scientific and science-fiction books and the idea of a highly advanced future.<br>At the moment, I am developing on Python+Django, but I plan to learn Go and neural network development.<br>I am actively looking for work, so if anyone is looking for an enthusiastic colleague who strives to become a professional in their field, please contact me!<br><br>
+My name is Maxim, a knowledge-thirsty self-taught web developer from Russia🇷🇺. Currently, I reside in sunny Spain🇪🇸. My passion for software development stems from scientific and science-fiction books and the idea of a highly advanced future.<br>At the moment, I am developing on Python+Django, but I plan to learn Go and neural network development.<br><br>
 - 🌊 Exploring Technical Content Writing.<br><br>
 - 🕓 In my free time, I do sports🏃‍♂️, read tech articles📄 and interesting books📚.<br>
   (but how does a programmer get free time?)<br><br>
